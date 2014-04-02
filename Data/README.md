@@ -4,7 +4,7 @@ For example:
 
 1.[TAMU Data and Research Services](http://dars.tamu.edu/Data-and-Reports/Student)
 
-Some reports have been converted to .csv files in [Data](https://github.com/HackathonTAMU/04.04.14_Diversity_Open_Data_Hackathon/tree/master/Data) folder.
+Some reports have been converted to .csv files in [1999-2014_Enrollment Profile](https://github.com/HackathonTAMU/04.04.14_Diversity_Open_Data_Hackathon/tree/master/Data/1999-2014_Enrollment%20Profile) folder.
 
 2.[Census Bureau](http://www.census.gov/)
 
