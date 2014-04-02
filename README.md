@@ -1,4 +1,4 @@
-04.04.14_Diversity_Open_Data_Hackathon
+Diversity Open Data Hackathon
 ======================================
 ![alt tag](http://www.arch.tamu.edu/media/cms_page_media/3890/Flyer_web_4.jpg)
 
@@ -20,4 +20,4 @@ When:
 
 The kick off will be at 5pm on Friday 04-04-14. Show and tell will commence at 3pm on Saturday 05-04-14. Awards will be presented at 4pm on Saturday. This is a great chance to meet, create interdisciplinary connections, build a portfolio and have a fun time! There will be food and drinks along with experts in minorities and and technology to guide the way.
 
-Want to know more? Go to http://www.arch.tamu.edu/diversity/hackathon/
+Want to know more? Go to [our web page](http://www.arch.tamu.edu/diversity/hackathon/)!
