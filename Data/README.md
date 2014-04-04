@@ -18,4 +18,3 @@ For example:
 - [Census Bureau](http://www.census.gov/)
 - [Social Explorer](http://www.socialexplorer.com/)
 - [Pew Research](http://www.pewresearch.org/data/)
-- [Government employees’ list](http://www.texastribune.org/library/data/government-employee-salaries/texas-am-university/)
